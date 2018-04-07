@@ -1,0 +1,16 @@
+PODS:
+  - Tools (0.1.0)
+
+DEPENDENCIES:
+  - Tools (from `../`)
+
+EXTERNAL SOURCES:
+  Tools:
+    :path: ../
+
+SPEC CHECKSUMS:
+  Tools: f8ef75c79529fd1bf96bdab15c05150275ae22b2
+
+PODFILE CHECKSUM: 14dc89611075095dacdc4fb1e2a9dca7a3767caa
+
+COCOAPODS: 1.4.0.beta.2
